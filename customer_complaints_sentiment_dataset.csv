@@ -1,0 +1,101 @@
+Complaint_ID,Sector,Complaint_Text,Response_Type,Sentiment_Label,Sentiment_Score
+C001,Airline,Your staff did not handle the delay situation properly.,Delayed Response,Neutral,-0.47
+C002,Airline,I received a generic apology but no accountability.,Personalized Response,Neutral,-0.98
+C003,Airline,My flight was delayed for 6 hours and no proper explanation was given.,Personalized Response,Neutral,-0.37
+C004,E-commerce,I feel the company does not trust customers during refunds.,Personalized Response,Negative,-0.98
+C005,Airline,I was stranded at the airport without any update from the airline.,Delayed Response,Negative,-0.81
+C006,E-commerce,I had to upload documents multiple times for a simple return.,Personalized Response,Very Negative,-0.47
+C007,Banking,The customer service team was not helpful.,Standard Template,Negative,-0.9
+C008,Airline,I received a generic apology but no accountability.,Delayed Response,Neutral,-0.44
+C009,Airline,Your staff did not handle the delay situation properly.,Personalized Response,Negative,-0.19
+C010,Airline,I received a generic apology but no accountability.,Standard Template,Negative,-0.96
+C011,E-commerce,My refund is still under review with no timeline.,Standard Template,Very Negative,-0.25
+C012,E-commerce,I feel the company does not trust customers during refunds.,Standard Template,Negative,-0.12
+C013,E-commerce,The return pickup was delayed without any notification.,Delayed Response,Negative,-0.16
+C014,E-commerce,I had to upload documents multiple times for a simple return.,Personalized Response,Neutral,-0.26
+C015,Banking,The grievance redressal process is taking too long.,Personalized Response,Neutral,-0.47
+C016,Banking,The grievance redressal process is taking too long.,Delayed Response,Very Negative,-0.28
+C017,Banking,There is no transparency in how my case is being handled.,Standard Template,Neutral,-0.92
+C018,Banking,I received a standard reply without addressing my issue.,Standard Template,Neutral,-0.61
+C019,E-commerce,The return pickup was delayed without any notification.,Personalized Response,Very Negative,-0.83
+C020,E-commerce,I feel the company does not trust customers during refunds.,Personalized Response,Very Negative,-0.08
+C021,Banking,I received a standard reply without addressing my issue.,Delayed Response,Negative,-0.91
+C022,E-commerce,The response I received was automated and unhelpful.,Personalized Response,Negative,-0.52
+C023,Airline,Your staff did not handle the delay situation properly.,Standard Template,Very Negative,-0.41
+C024,E-commerce,I feel the company does not trust customers during refunds.,Standard Template,Very Negative,-0.74
+C025,E-commerce,I had to upload documents multiple times for a simple return.,Personalized Response,Neutral,-0.27
+C026,Airline,The compensation process is extremely unclear and frustrating.,Personalized Response,Very Negative,-0.27
+C027,Airline,I received a generic apology but no accountability.,Standard Template,Neutral,-0.8
+C028,Banking,The customer service team was not helpful.,Delayed Response,Very Negative,-0.2
+C029,Airline,Your staff did not handle the delay situation properly.,Personalized Response,Very Negative,-0.0
+C030,E-commerce,The response I received was automated and unhelpful.,Standard Template,Negative,-0.53
+C031,Banking,The grievance redressal process is taking too long.,Delayed Response,Neutral,-0.54
+C032,E-commerce,The return pickup was delayed without any notification.,Standard Template,Very Negative,-0.53
+C033,Banking,I received a standard reply without addressing my issue.,Standard Template,Neutral,-0.13
+C034,Airline,I received a generic apology but no accountability.,Standard Template,Neutral,-0.2
+C035,Banking,I received a standard reply without addressing my issue.,Personalized Response,Neutral,-0.2
+C036,Airline,Your staff did not handle the delay situation properly.,Personalized Response,Very Negative,-0.86
+C037,Banking,I received a standard reply without addressing my issue.,Delayed Response,Neutral,-0.23
+C038,E-commerce,I had to upload documents multiple times for a simple return.,Standard Template,Neutral,-0.4
+C039,Banking,My complaint regarding unauthorized charges is still unresolved.,Standard Template,Negative,-0.54
+C040,Banking,The customer service team was not helpful.,Personalized Response,Neutral,-0.12
+C041,E-commerce,I feel the company does not trust customers during refunds.,Personalized Response,Negative,-0.27
+C042,Banking,There is no transparency in how my case is being handled.,Personalized Response,Negative,-0.13
+C043,Airline,I received a generic apology but no accountability.,Standard Template,Neutral,-0.11
+C044,Banking,The customer service team was not helpful.,Standard Template,Neutral,-0.28
+C045,Airline,My flight was delayed for 6 hours and no proper explanation was given.,Personalized Response,Very Negative,-0.15
+C046,Airline,I was stranded at the airport without any update from the airline.,Personalized Response,Very Negative,-0.97
+C047,Airline,I received a generic apology but no accountability.,Standard Template,Very Negative,-0.9
+C048,Airline,The compensation process is extremely unclear and frustrating.,Personalized Response,Negative,-0.8
+C049,E-commerce,I feel the company does not trust customers during refunds.,Personalized Response,Neutral,-0.39
+C050,Banking,There is no transparency in how my case is being handled.,Delayed Response,Negative,-0.62
+C051,E-commerce,My refund is still under review with no timeline.,Delayed Response,Neutral,-0.48
+C052,E-commerce,My refund is still under review with no timeline.,Delayed Response,Very Negative,-0.94
+C053,Airline,My flight was delayed for 6 hours and no proper explanation was given.,Delayed Response,Negative,-0.03
+C054,Banking,There is no transparency in how my case is being handled.,Delayed Response,Very Negative,-0.42
+C055,Airline,My flight was delayed for 6 hours and no proper explanation was given.,Delayed Response,Very Negative,-0.29
+C056,E-commerce,My refund is still under review with no timeline.,Personalized Response,Very Negative,-0.75
+C057,Airline,The compensation process is extremely unclear and frustrating.,Delayed Response,Very Negative,-0.53
+C058,Airline,The compensation process is extremely unclear and frustrating.,Delayed Response,Negative,-0.33
+C059,Airline,My flight was delayed for 6 hours and no proper explanation was given.,Personalized Response,Very Negative,-0.79
+C060,Banking,I received a standard reply without addressing my issue.,Delayed Response,Very Negative,-0.28
+C061,Airline,I was stranded at the airport without any update from the airline.,Delayed Response,Very Negative,-0.89
+C062,Airline,Your staff did not handle the delay situation properly.,Personalized Response,Negative,-0.19
+C063,Airline,My flight was delayed for 6 hours and no proper explanation was given.,Standard Template,Negative,-0.61
+C064,E-commerce,I had to upload documents multiple times for a simple return.,Standard Template,Neutral,-0.11
+C065,Banking,My complaint regarding unauthorized charges is still unresolved.,Delayed Response,Very Negative,-0.47
+C066,Airline,The compensation process is extremely unclear and frustrating.,Personalized Response,Negative,-0.88
+C067,Airline,I was stranded at the airport without any update from the airline.,Delayed Response,Neutral,-0.68
+C068,Banking,My complaint regarding unauthorized charges is still unresolved.,Standard Template,Neutral,-0.13
+C069,Airline,Your staff did not handle the delay situation properly.,Standard Template,Negative,-0.06
+C070,Airline,The compensation process is extremely unclear and frustrating.,Personalized Response,Neutral,-0.57
+C071,E-commerce,I feel the company does not trust customers during refunds.,Delayed Response,Negative,-0.15
+C072,E-commerce,My refund is still under review with no timeline.,Personalized Response,Very Negative,-0.9
+C073,Banking,My complaint regarding unauthorized charges is still unresolved.,Standard Template,Negative,-0.69
+C074,E-commerce,I feel the company does not trust customers during refunds.,Standard Template,Neutral,-0.92
+C075,E-commerce,My refund is still under review with no timeline.,Delayed Response,Neutral,-0.0
+C076,E-commerce,I had to upload documents multiple times for a simple return.,Delayed Response,Negative,-0.24
+C077,Banking,There is no transparency in how my case is being handled.,Personalized Response,Very Negative,-0.39
+C078,E-commerce,I feel the company does not trust customers during refunds.,Standard Template,Neutral,-0.5
+C079,E-commerce,I feel the company does not trust customers during refunds.,Delayed Response,Very Negative,-0.04
+C080,Airline,The compensation process is extremely unclear and frustrating.,Personalized Response,Neutral,-0.92
+C081,Airline,I received a generic apology but no accountability.,Personalized Response,Very Negative,-0.14
+C082,Airline,The compensation process is extremely unclear and frustrating.,Standard Template,Neutral,-0.03
+C083,Airline,My flight was delayed for 6 hours and no proper explanation was given.,Standard Template,Very Negative,-0.95
+C084,Airline,I received a generic apology but no accountability.,Personalized Response,Negative,-0.4
+C085,Airline,My flight was delayed for 6 hours and no proper explanation was given.,Personalized Response,Neutral,-0.1
+C086,Airline,Your staff did not handle the delay situation properly.,Delayed Response,Negative,-0.99
+C087,Banking,My complaint regarding unauthorized charges is still unresolved.,Personalized Response,Negative,-0.53
+C088,Airline,The compensation process is extremely unclear and frustrating.,Personalized Response,Very Negative,-0.22
+C089,Airline,I was stranded at the airport without any update from the airline.,Personalized Response,Negative,-0.09
+C090,Airline,I received a generic apology but no accountability.,Delayed Response,Negative,-0.85
+C091,Airline,I received a generic apology but no accountability.,Personalized Response,Neutral,-0.26
+C092,Airline,I received a generic apology but no accountability.,Delayed Response,Negative,-0.9
+C093,E-commerce,The return pickup was delayed without any notification.,Standard Template,Neutral,-0.12
+C094,E-commerce,My refund is still under review with no timeline.,Personalized Response,Very Negative,-1.0
+C095,E-commerce,The return pickup was delayed without any notification.,Standard Template,Neutral,-0.66
+C096,Banking,The customer service team was not helpful.,Delayed Response,Very Negative,-0.14
+C097,Banking,My complaint regarding unauthorized charges is still unresolved.,Delayed Response,Negative,-0.52
+C098,Banking,The grievance redressal process is taking too long.,Personalized Response,Negative,-0.19
+C099,E-commerce,The response I received was automated and unhelpful.,Personalized Response,Very Negative,-0.08
+C100,Airline,My flight was delayed for 6 hours and no proper explanation was given.,Standard Template,Negative,-0.99
